@@ -1,6 +1,6 @@
 # Phone MIDI Controller
 
-欢迎使用由@实习人类，@萤火冷光 (@通义灵码插件,主要是它) 共同开发的Phone Sensor Based MIDI Controller（简称Phone MIDI Controller）
+欢迎使用由@[实习人类](https://github.com/amstlkqp114514)，@[萤火冷光](https://github.com/coldmentallighter)(@通义灵码插件,主要是它) 共同开发的Phone Sensor Based MIDI Controller（简称Phone MIDI Controller）
 
 这个方案能够将你的手机变成一个**MIDI CC控制器**！它通过检测手机**倾斜程度**来控制**CC11**，通过检测手机**晃动**来控制**CC1**，同时我们还有一个通过检测**距离传感器**来控制开闭的**可选择打开**的MIDI CC输出（默认CC3）。
 
