@@ -42,6 +42,7 @@
 ```
 Phone MIDI Controller/
 ├── app/                 # Android应用源代码
+├── artwork/ # 电脑端程序图标（png）
 ├── midi_controller_v0_6_1.py  # Python MIDI控制器主程序
 ├── midi_controller_v0_6_1.exe # 编译后的可执行文件
 ├── set.ini              # 配置文件
